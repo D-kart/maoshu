@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /maoshu/preview/
+
+Sitemap: https://d-kart.github.io/maoshu/sitemap.xml
